@@ -1,4 +1,4 @@
 # pytorch
-A collection of different codes and examples using pytorch and numpy libraries, etc. (We mostly use pytorch)
+A set of codes related to regression and neural network, etc.
 
 ## This repository is being completed
