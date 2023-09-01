@@ -19,3 +19,11 @@ The subjects of these codes are:
 
 
 
+## Multiple Linear Regression
+![Multiple_Linear_Regression](https://github.com/ALItaheri1380/pytorch/assets/98982133/45746647-0088-4c70-a7a0-e64ca680b2a6)
+
+![dif](https://github.com/ALItaheri1380/pytorch/assets/98982133/7cbdcceb-5460-4999-ab75-10ac50370449)
+
+
+
+
