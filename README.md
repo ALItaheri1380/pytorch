@@ -10,7 +10,7 @@ The subjects of these codes are:
 
 
 ## Linear Regression
-![linreg](https://github.com/ALItaheri1380/pytorch/assets/98982133/a12f5f35-fb58-4411-86a2-2450352f286d)
+![linreg](https://github.com/ALItaheri1380/pytorch/assets/98982133/8177a2b2-ec23-4264-bfeb-9eba9ec6a163)
 
 
 
