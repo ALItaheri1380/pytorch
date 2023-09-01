@@ -11,3 +11,11 @@ The subjects of these codes are:
 
 ## Linear Regression
 ![linreg](https://github.com/ALItaheri1380/pytorch/assets/98982133/a12f5f35-fb58-4411-86a2-2450352f286d)
+
+
+
+## MSE graph
+![mse](https://github.com/ALItaheri1380/pytorch/assets/98982133/1cb9ae8b-2bb5-4e87-ae36-339413271df9)
+
+
+
