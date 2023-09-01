@@ -51,11 +51,14 @@ The subjects of these codes are:
 
 
 ## RNN Model
-![Rnn1](https://github.com/ALItaheri1380/pytorch/assets/98982133/8724895d-2e0e-455b-9654-fa5046f1fb51)
+picture one
+![1](https://github.com/ALItaheri1380/pytorch/assets/98982133/aa2c495e-6d5d-4f7b-990b-b0f40d352d2d)
 
 
+![2](https://github.com/ALItaheri1380/pytorch/assets/98982133/f57dfe69-0740-4a72-a2d7-2ceb7fffc48b)
 
-![rnn2](https://github.com/ALItaheri1380/pytorch/assets/98982133/b8b8dba1-aa5f-471f-89cd-245e00910912)
+
+![3](https://github.com/ALItaheri1380/pytorch/assets/98982133/51e98956-8ac3-408b-806b-f6de4db00475)
 
 
 
