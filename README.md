@@ -66,6 +66,11 @@ picture three
 ![3](https://github.com/ALItaheri1380/pytorch/assets/98982133/51e98956-8ac3-408b-806b-f6de4db00475)
 
 
+## CNN Model
+![CNN](https://github.com/ALItaheri1380/pytorch/assets/98982133/fda1b2d4-9643-49d2-90d6-e22fd2a7d5cf)
+
+
+
 
 
 
