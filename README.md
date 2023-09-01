@@ -9,7 +9,7 @@ The subjects of these codes are:
 4. Logistic Regression by pytorch
 
 
-## Linear Regression
+# Linear Regression
 ![linreg](https://github.com/ALItaheri1380/pytorch/assets/98982133/8177a2b2-ec23-4264-bfeb-9eba9ec6a163)
 
 
