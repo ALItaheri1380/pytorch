@@ -30,4 +30,9 @@ Comparison of Multiple Linear Regression and Linear Regression
 
 
 
+## Logistic Regression
+![logistic](https://github.com/ALItaheri1380/pytorch/assets/98982133/b89297db-48c6-445f-b006-da9e652d2196)
+
+
+
 
