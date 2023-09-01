@@ -36,3 +36,32 @@ Comparison of Multiple Linear Regression and Linear Regression
 
 
 
+
+### Description of Neural Network:
+The subjects of these codes are:
+
+1. Neural Network
+2. RNN Model
+3. CNN Model
+
+
+## Neural Network
+![nn](https://github.com/ALItaheri1380/pytorch/assets/98982133/aef98506-91ad-4636-ac02-35717a64d456)
+
+
+
+## RNN Model
+![Rnn1](https://github.com/ALItaheri1380/pytorch/assets/98982133/8724895d-2e0e-455b-9654-fa5046f1fb51)
+
+
+
+![rnn2](https://github.com/ALItaheri1380/pytorch/assets/98982133/b8b8dba1-aa5f-471f-89cd-245e00910912)
+
+
+
+
+
+
+
+
+
